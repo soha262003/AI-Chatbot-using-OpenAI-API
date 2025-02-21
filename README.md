@@ -1,3 +1,5 @@
+AI Chatbot using OpenAI API
+
 Objective:
 
 This project is a simple AI chatbot that generates responses using OpenAI's GPT model. It acts like a virtual assistant that can answer various queries based on user input.
